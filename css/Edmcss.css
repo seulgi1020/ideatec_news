@@ -119,7 +119,7 @@ section.mainbanner::before{
 
 /* 2) 두 번째 배경: 이미지 1 */
 section.mainbanner::after{
-  background-image: url("../img/banner_img_2.png");
+  background-image: url("https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/banner_img_2.png");
   animation-delay: 2s;
 }
 
@@ -127,7 +127,7 @@ section.mainbanner::after{
 section.mainbanner .bg-layer{
   /* div라서 content 필요없지만, 위 공통 selector에 포함되어도 문제 없음 */
   content: none;
-  background-image: url("../img/banner_img_3.png");
+  background-image: url("https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/banner_img_3.png");
   animation-delay: 4s;
 }
 
@@ -149,7 +149,7 @@ section.mainbanner .bg-layer{
 		align-items: center;
 	justify-content: center;
 	display: flex;
-	background-image: url(../img/title.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/title.svg);
 	background-repeat: no-repeat;
 	
 }
@@ -164,7 +164,7 @@ section.mainbanner .bg-layer{
 	align-items: center;
 	justify-content: center;
 	display: flex;
-		background-image: url(../img/main_titile.png);
+		background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/main_titile.png);
 
 }
 
@@ -222,7 +222,7 @@ flex-direction: column;
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-image: url(../img/deco_1.png);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/deco_1.png);
 	background-repeat: no-repeat;
 	z-index: 1;
 }
@@ -232,19 +232,19 @@ flex-direction: column;
 	height: 257px;
 	position: absolute;
 left: 35px; top: 39px;
-	background-image: url(../img/bb_news_img.png);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/bb_news_img.png);
 	z-index: 2;
 }
 
 .pattern{
-	background-image:url(../img/bottondeco.png) ;
+	background-image:url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/bottondeco.png) ;
 	width: 602px; height: 19px;
 	position: absolute; bottom: 0;
 }
 
 .decomini{width: 52px;
 	height: 52px;
-	background-image: url(../img/minibox.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/minibox.svg);
 		z-index: 3;
 			position: absolute;
 			right: 0;
@@ -418,14 +418,14 @@ position: relative;
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-image: url(../img/deco_2.png);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/deco_2.png);
 	z-index: 3;
 }
 
 .gp1 .img2{width: 243px;
 	height:142px;
 	border-right: 5px solid #6286FA;
-	background-image: url(../img/mm_news_img.png);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/mm_news_img.png);
 	position: absolute;
 	top: 16px;
 	left: 16px;
@@ -435,7 +435,7 @@ position: relative;
 .gp2 .img2{width: 243px;
 	height:142px;
 	border-right: 5px solid #6286FA;
-	background-image: url(../img/mm_news_img.png);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/mm_news_img.png);
 	position: absolute;
 	top: 16px;
 	left: 16px;
@@ -522,7 +522,7 @@ height:106px ;
 }
 
 .newsbtnimg{
-background-image: url(../img/see_news.svg);
+background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/see_news.svg);
 width:291px ;
 height:106px ;
 }
@@ -578,9 +578,9 @@ section.product{
 }
 
 /* 이미지 */
-.pt1{ background-image: url(../img/product_1.png); }
-.pt2{ background-image: url(../img/product_2.png); }
-.pt3{ background-image: url(../img/product_3.png); }
+.pt1{ background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/product_1.png); }
+.pt2{ background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/product_2.png); }
+.pt3{ background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/product_3.png); }
 
 
 section.others{
@@ -608,7 +608,7 @@ height: 114px;
 align-items: center;
 justify-content: center;
 display: flex;
-background-image: url(../img/askcard.svg);
+background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/askcard.svg);
 
 }
 
@@ -643,19 +643,19 @@ width: 66.6px;
 height: 66.6px;
 }
 .img1{
-	background-image: url(../img/blog.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/blog.svg);
 }
 
 .img2{
-	background-image: url(../img/face.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/face.svg);
 }
 
 .img3{
-	background-image: url(../img/in.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/in.svg);
 }
 
 .img4{
-	background-image: url(../img/insta.svg);
+	background-image: url(https://raw.githubusercontent.com/seulgi1020/ideatec_news/main/img/insta.svg);
 }
 
 footer{
